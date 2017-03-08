@@ -65,6 +65,7 @@ jobscheduler                              u:object_r:jobscheduler_service:s0
 launcherapps                              u:object_r:launcherapps_service:s0
 location                                  u:object_r:location_service:s0
 lock_settings                             u:object_r:lock_settings_service:s0
+masquerade                                u:object_r:masquerade_service:s0
 media.audio_flinger                       u:object_r:audioserver_service:s0
 media.audio_policy                        u:object_r:audioserver_service:s0
 media.camera                              u:object_r:cameraserver_service:s0
@@ -93,6 +94,7 @@ network_time_update_service               u:object_r:network_time_update_service
 nfc                                       u:object_r:nfc_service:s0
 notification                              u:object_r:notification_service:s0
 otadexopt                                 u:object_r:otadexopt_service:s0
+overlay                                   u:object_r:overlay_service:s0
 package                                   u:object_r:package_service:s0
 permission                                u:object_r:permission_service:s0
 persistent_data_block                     u:object_r:persistent_data_block_service:s0
